@@ -30,5 +30,8 @@ public class JavaMethod {
             predikat = "E";
             System.out.println("Nilai = " + nilai + "\n" + "Predikat = " + predikat);
             }     
+        else {
+            System.out.println("Nilai Salah");                
+            }     
     }
 }
